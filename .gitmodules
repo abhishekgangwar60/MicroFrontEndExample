@@ -1,0 +1,9 @@
+[submodule "app-container"]
+	path = app-container
+	url = https://github.com/abhishekgangwar60/app-container.git
+[submodule "micro-front-end-one"]
+	path = micro-front-end-one
+	url = https://github.com/abhishekgangwar60/micro-front-end-one.git
+[submodule "micro-front-end-two"]
+	path = micro-front-end-two
+	url = https://github.com/abhishekgangwar60/micro-front-end-two.git
